@@ -2,6 +2,7 @@
 ## My name is Guilherme and my nickname is "guilhermw1!
 - 🔭 I’m currently working on Arauco s/a
 - 🌱 I’m currently learning software engineering and some courses at Alura
+![snake gif](https://github.com/guilhermw1/guilhermw1/blob/output/github-contribution-grid-snake.gif)
 
 ## Ferramentas e Tecnologias
 
