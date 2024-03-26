@@ -39,4 +39,3 @@
 
 
 
-![Snake animation](https://github.com/guilhermw1/guilhermw1/blob/output/github-contribution-grid-snake.svg)
