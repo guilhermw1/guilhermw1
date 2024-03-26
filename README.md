@@ -25,4 +25,4 @@
 
 
 
-![Snake animation](https://github.com/seu-usuário-aqui/seu-usuário-aqui/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/guilhermw1/guilhermw1/blob/output/github-contribution-grid-snake.svg)
